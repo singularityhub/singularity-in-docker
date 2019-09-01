@@ -5,6 +5,8 @@ image, only with purpose to store it in a Docker Registry for pulling later.
 Of course you'd need Docker or a tool like [oras](https://github.com/deislabs/oras) to handle the pull.
 Use at your own risk! I don't know if there are rules against this sort of thing.
 
+![img/poopies.png](img/poopies.png)
+
 ## Build
 
 Build the Singularity container.
